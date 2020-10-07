@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587661435 source:d:\cworkspace\sikistirmaalgoritmalari\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+	<time.h>
+
